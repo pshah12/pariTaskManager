@@ -1,0 +1,3 @@
+# pariTaskManager
+
+Linux task manager
